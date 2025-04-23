@@ -1,6 +1,6 @@
 streamlit
 tensorflow
-opencv-python==4.7.0.72
+opencv-python-headless
 numpy
 pillow
 gdown
